@@ -6,18 +6,18 @@ Talks, links etc. from our Meetups
 ## Links
 
 ### Letter drawing
-[http://www.twardoch.com/download/polishhowto/intro.html](Polish diacritics)
+[Polish diacritics](http://www.twardoch.com/download/polishhowto/intro.html)
 
 ### Spacing
-[http://tools.ninastoessinger.com/stringmaker/index.php](Stringmaker)
+[Stringmaker](http://tools.ninastoessinger.com/stringmaker/index.php)
 
 ### Kerning
-[http://www.logofontandlettering.com/kernking.html](Good text to test kerning)
+[Good text to test kerning](http://www.logofontandlettering.com/kernking.html)
 
 ### Misc
-[http://clagnut.com/blog/2380/#Danish](Pangrams)
+[Pangrams](http://clagnut.com/blog/2380/#Danish)
 
 ### Inspiration
 
 #### Type specimen
-[http://www.exljbris.com/pdf/Museo_Slab_specimen.pdf](Museo Slab)
+[Museo Slab](http://www.exljbris.com/pdf/Museo_Slab_specimen.pdf)
