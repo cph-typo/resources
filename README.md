@@ -55,6 +55,8 @@ http://craftingtype.com
 
 ---
 
+### Glossary
+
 ![1](http://imgur.com/onHygND.jpg)
 ![2](http://i.imgur.com/GvNHeSv.jpg)
 ![3](http://i.imgur.com/fhjk1BN.jpg)
