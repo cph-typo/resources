@@ -21,7 +21,8 @@ Talks, links etc. from our Meetups
 [Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)
 [List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)
 
-### Misc
+### Testing
+[Impallari test tool](http://www.impallari.com/testing/)
 [Pangrams](http://clagnut.com/blog/2380/#Danish)
 
 ### Forums
