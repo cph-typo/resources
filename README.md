@@ -39,4 +39,4 @@ Talks, links etc. from our Meetups
 
 ### Courses
 http://typefacedesign.net/courses/tdi/
-
+http://craftingtype.com
