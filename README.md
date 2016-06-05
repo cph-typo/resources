@@ -52,3 +52,9 @@ This is where you find links, presentations and whatnot.
 ### Courses
 http://typefacedesign.net/courses/tdi/
 http://craftingtype.com
+
+---
+
+![1](http://imgur.com/onHygND.jpg)
+![2](http://i.imgur.com/GvNHeSv.jpg)
+![3](http://i.imgur.com/fhjk1BN.jpg)
