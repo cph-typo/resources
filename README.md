@@ -3,10 +3,10 @@ This is where you find links, presentations and whatnot.
 --- 
 
 ### Letter drawing
-[Diacritics](http://diacritics.typo.cz/index.php?id=1)
-[Polish diacritics](http://www.twardoch.com/download/polishhowto/intro.html)
-[Icelandic](http://66.147.242.192/~operinan/2/2.11/index.htm)
-[Icelandic 2](http://font.is/letur-the-making-of-thorn-thorn-eth-eth/)
+[Diacritics](http://diacritics.typo.cz/index.php?id=1)  
+[Polish diacritics](http://www.twardoch.com/download/polishhowto/intro.html)  
+[Icelandic](http://66.147.242.192/~operinan/2/2.11/index.htm)  
+[Icelandic 2](http://font.is/letur-the-making-of-thorn-thorn-eth-eth/)  
 
 --- 
 
@@ -21,13 +21,13 @@ This is where you find links, presentations and whatnot.
 --- 
 
 ### OpenType Features
-[Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)
+[Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)  
 [List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)
 
 --- 
 
 ### Testing
-[Impallari test tool](http://www.impallari.com/testing/)
+[Impallari test tool](http://www.impallari.com/testing/)  
 [Pangrams](http://clagnut.com/blog/2380/#Danish)
 
 --- 
@@ -50,8 +50,8 @@ This is where you find links, presentations and whatnot.
 --- 
 
 ### Courses
-http://typefacedesign.net/courses/tdi/
-http://craftingtype.com
+[TDi 2016](http://typefacedesign.net/courses/tdi/)
+[Crafting Type](http://craftingtype.com)
 
 ---
 
