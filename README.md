@@ -55,7 +55,7 @@ This is where you find links, presentations and whatnot.
 --- 
 
 ### Courses
-[TDi 2016](http://typefacedesign.net/courses/tdi/)
+[TDi 2016](http://typefacedesign.net/courses/tdi/)  
 [Crafting Type](http://craftingtype.com)
 
 ---
