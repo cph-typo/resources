@@ -1,5 +1,10 @@
 This is where you find links, presentations and whatnot. 
 
+---
+
+### Type design basics
+[Typeworkshop - Basics](http://www.typeworkshop.com/index.php?id1=type-basics)  
+
 --- 
 
 ### Letter drawing
