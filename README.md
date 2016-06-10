@@ -12,6 +12,8 @@ This is where you find links, presentations and whatnot.
 [Polish diacritics](http://www.twardoch.com/download/polishhowto/intro.html)  
 [Icelandic](http://66.147.242.192/~operinan/2/2.11/index.htm)  
 [Icelandic 2](http://font.is/letur-the-making-of-thorn-thorn-eth-eth/)  
+[Vietnamese Diacritics](https://vietnamesetypography.com/)  
+[Sharp S](https://typography.guru/journal/german-sharp-s-design/)  
 
 --- 
 
