@@ -62,6 +62,20 @@ This is where you find links, presentations and whatnot.
 
 ---
 
+### Scripts
+
+##### Glyphs
+[Mekkablue (100+ scripts)](https://github.com/mekkablue/Glyphs-Scripts)
+
+---
+
+### Plugins
+
+##### Glyphs
+[Mark2Mark Plugins](https://github.com/Mark2Mark/Glyphsapp-Plugins)  
+
+---
+
 ### Glossary
 
 ![1](http://imgur.com/onHygND.jpg)
