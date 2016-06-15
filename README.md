@@ -4,6 +4,7 @@ This is where you find links, presentations and whatnot.
 
 ### Type design basics
 [Typeworkshop - Basics](http://www.typeworkshop.com/index.php?id1=type-basics)  
+[MyFonts - Basics](https://foundry.myfonts.com/guides/#type-design-basics)  
 
 --- 
 
