@@ -78,6 +78,11 @@ This is where you find links, presentations and whatnot.
 
 ---
 
+### OpenType Features
+
+[Advanced fraction implementation](http://web.archive.org/web/20130325033504/http://talleming.com/2009/10/01/fraction-fever-2/) - by Tal Leming
+
+
 ### Glossary
 
 ![1](http://imgur.com/onHygND.jpg)
