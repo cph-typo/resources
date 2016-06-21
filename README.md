@@ -37,7 +37,8 @@ This is where you find links, presentations and whatnot.
 
 ### Testing
 [Impallari test tool](http://www.impallari.com/testing/)  
-[Pangrams](http://clagnut.com/blog/2380/#Danish)
+[Pangrams](http://clagnut.com/blog/2380/#Danish)  
+[Just Another Test Text Generator]([Just Another Test Text Generator](http://justanotherfoundry.com/generator)  )
 
 --- 
 
