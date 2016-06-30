@@ -32,6 +32,7 @@ This is where you find links, presentations and whatnot.
 ### OpenType Features
 [Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)  
 [List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)
+[Visual overview](https://typofonderie.com/font-support/opentype-features/)
 
 --- 
 
