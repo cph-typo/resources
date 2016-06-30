@@ -15,24 +15,24 @@ This is where you find links, presentations and whatnot.
 [Icelandic 2](http://font.is/letur-the-making-of-thorn-thorn-eth-eth/)  
 [Vietnamese Diacritics](https://vietnamesetypography.com/)  
 [Sharp S](https://typography.guru/journal/german-sharp-s-design/)  
-[Cyrillic letter 'б'](http://typejournal.ru/en/articles/Cyrillic-Be-Vision)
+[Cyrillic letter 'б'](http://typejournal.ru/en/articles/Cyrillic-Be-Vision)  
 
 --- 
 
 ### Spacing
-[Stringmaker](http://tools.ninastoessinger.com/stringmaker/index.php)
+[Stringmaker](http://tools.ninastoessinger.com/stringmaker/index.php)  
 
 --- 
 
 ### Kerning
-[Good text to test kerning](http://www.logofontandlettering.com/kernking.html)
+[Good text to test kerning](http://www.logofontandlettering.com/kernking.html)  
 
 --- 
 
 ### OpenType Features
 [Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)  
-[List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)
-[Visual overview](https://typofonderie.com/font-support/opentype-features/)
+[List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)  
+[Visual overview](https://typofonderie.com/font-support/opentype-features/)  
 
 --- 
 
@@ -44,19 +44,19 @@ This is where you find links, presentations and whatnot.
 --- 
 
 ### Forums
-[Typedrawers](http://typedrawers.com)
+[Typedrawers](http://typedrawers.com)  
 
 --- 
 
 ### Articles
-[New web typography](https://www.robinrendle.com/essays/new-web-typography/)
+[New web typography](https://www.robinrendle.com/essays/new-web-typography/)  
 
 --- 
 
 ### Inspiration
 
 ##### Type specimen
-[Museo Slab](http://www.exljbris.com/pdf/Museo_Slab_specimen.pdf)
+[Museo Slab](http://www.exljbris.com/pdf/Museo_Slab_specimen.pdf)  
 
 --- 
 
@@ -70,7 +70,7 @@ This is where you find links, presentations and whatnot.
 ### Scripts
 
 ##### Glyphs
-[Mekkablue (100+ scripts)](https://github.com/mekkablue/Glyphs-Scripts)
+[Mekkablue (100+ scripts)](https://github.com/mekkablue/Glyphs-Scripts)  
 
 ---
 
