@@ -31,6 +31,7 @@ This is where you find links, presentations and whatnot.
 
 ### OpenType Features
 [Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)  
+[OpenType Features CookBook](http://opentypecookbook.com/)  
 [List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)  
 [Visual overview](https://typofonderie.com/font-support/opentype-features/)  
 [Advanced fraction implementation](http://web.archive.org/web/20130325033504/http://talleming.com/2009/10/01/fraction-fever-2/) - by Tal Leming  
