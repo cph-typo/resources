@@ -33,6 +33,7 @@ This is where you find links, presentations and whatnot.
 [Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)  
 [List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)  
 [Visual overview](https://typofonderie.com/font-support/opentype-features/)  
+[Advanced fraction implementation](http://web.archive.org/web/20130325033504/http://talleming.com/2009/10/01/fraction-fever-2/) - by Tal Leming  
 
 --- 
 
@@ -78,12 +79,7 @@ This is where you find links, presentations and whatnot.
 
 ##### Glyphs
 [Mark2Mark Plugins](https://github.com/Mark2Mark/Glyphsapp-Plugins)  
-
----
-
-### OpenType Features
-
-[Advanced fraction implementation](http://web.archive.org/web/20130325033504/http://talleming.com/2009/10/01/fraction-fever-2/) - by Tal Leming
+ 
 
 
 ### Glossary
