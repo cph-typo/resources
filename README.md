@@ -1,4 +1,4 @@
-This is where you find links, presentations and whatnot. 
+This is where you find links, presentations and whatnot.  
 
 ---
 
@@ -6,7 +6,7 @@ This is where you find links, presentations and whatnot.
 [Typeworkshop - Basics](http://www.typeworkshop.com/index.php?id1=type-basics)  
 [MyFonts - Basics](https://foundry.myfonts.com/guides/#type-design-basics)  
 
---- 
+---
 
 ### Letter drawing
 [Diacritics](http://diacritics.typo.cz/index.php?id=1)  
@@ -17,17 +17,17 @@ This is where you find links, presentations and whatnot.
 [Sharp S](https://typography.guru/journal/german-sharp-s-design/)  
 [Cyrillic letter 'б'](http://typejournal.ru/en/articles/Cyrillic-Be-Vision)  
 
---- 
+---
 
 ### Spacing
 [Stringmaker](http://tools.ninastoessinger.com/stringmaker/index.php)  
 
---- 
+---
 
 ### Kerning
 [Good text to test kerning](http://www.logofontandlettering.com/kernking.html)  
 
---- 
+---
 
 ### OpenType Features
 [Introduction to opentype features](http://ilovetypography.com/OpenType/opentype-features.html)  
@@ -35,31 +35,31 @@ This is where you find links, presentations and whatnot.
 [Visual overview](https://typofonderie.com/font-support/opentype-features/)  
 [Advanced fraction implementation](http://web.archive.org/web/20130325033504/http://talleming.com/2009/10/01/fraction-fever-2/) - by Tal Leming  
 
---- 
+---
 
 ### Testing
 [Impallari test tool](http://www.impallari.com/testing/)  
 [Pangrams](http://clagnut.com/blog/2380/)  
 [Just Another Test Text Generator](http://justanotherfoundry.com/generator)  
 
---- 
+---
 
 ### Forums
 [Typedrawers](http://typedrawers.com)  
 
---- 
+---
 
 ### Articles
 [New web typography](https://www.robinrendle.com/essays/new-web-typography/)  
 
---- 
+---
 
 ### Inspiration
 
 ##### Type specimen
 [Museo Slab](http://www.exljbris.com/pdf/Museo_Slab_specimen.pdf)  
 
---- 
+---
 
 ### Courses
 [TDi 2016](http://typefacedesign.net/courses/tdi/)  
@@ -79,7 +79,7 @@ This is where you find links, presentations and whatnot.
 
 ##### Glyphs
 [Mark2Mark Plugins](https://github.com/Mark2Mark/Glyphsapp-Plugins)  
- 
+
 
 
 ### Glossary
