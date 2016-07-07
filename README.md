@@ -83,7 +83,12 @@ This is where you find links, presentations and whatnot.
 ##### Glyphs
 [Mark2Mark Plugins](https://github.com/Mark2Mark/Glyphsapp-Plugins)  
 
+---
 
+### Interpolation / Multiple Masters
+
+[Glyphs App tutorial (3-part)](https://www.glyphsapp.com/tutorials/multiple-masters-part-1-setting-up-masters) - Good introduction even if you dont use Glyphs.  
+[Brace Trick (Glyphs App)](https://glyphsapp.com/tutorials/additional-masters-for-individual-glyphs-the-brace-trick)  
 
 ### Glossary
 
