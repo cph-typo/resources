@@ -25,6 +25,7 @@ This is where you find links, presentations and whatnot.
 ---
 
 ### Kerning
+[Tips on kerning/spacing workflow](http://graphicdesign.stackexchange.com/questions/68245/what-are-some-common-kerning-pairs)  
 [Good text to test kerning](http://www.logofontandlettering.com/kernking.html)  
 
 ---
