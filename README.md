@@ -91,6 +91,15 @@ This is where you find links, presentations and whatnot.
 [Glyphs App tutorial (3-part)](https://www.glyphsapp.com/tutorials/multiple-masters-part-1-setting-up-masters) - Good introduction even if you dont use Glyphs.  
 [Brace Trick (Glyphs App)](https://glyphsapp.com/tutorials/additional-masters-for-individual-glyphs-the-brace-trick)  
 
+
+---
+
+### Glyph Sets
+
+[Google Fonts Glyph Set Baseline 2016](https://github.com/google/fonts/tree/master/tools/encodings/GF%202016%20Glyph%20Sets)  
+
+---
+
 ### Glossary
 
 ![1](http://imgur.com/onHygND.jpg)
