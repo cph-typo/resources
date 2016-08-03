@@ -44,6 +44,7 @@ This is where you find links, presentations and whatnot.
 [Pangrams](http://clagnut.com/blog/2380/)  
 [Just Another Test Text Generator](http://justanotherfoundry.com/generator)  
 [Glyph Gazer](https://typeresources.github.io/glyph-gazer/) - Compare glyphs in different fonts  
+[Latin Plus Langauge Support validation](http://www.underware.nl/latin_plus/validate/)  
 
 ---
 
