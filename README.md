@@ -37,6 +37,7 @@ This is where you find links, presentations and whatnot.
 [List of available features](https://en.wikipedia.org/wiki/List_of_typographic_features)  
 [Visual overview](https://typofonderie.com/font-support/opentype-features/)  
 [Advanced fraction implementation](http://web.archive.org/web/20130325033504/http://talleming.com/2009/10/01/fraction-fever-2/) - by Tal Leming  
+[Roman Numerals](http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/typeboard.vanillaforums.com/editor/q4/6ddk9au9g3aa.pdf) (Igor Freiberger)   
 
 ---
 
