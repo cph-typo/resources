@@ -17,7 +17,8 @@ This is where you find links, presentations and whatnot.
 [Sharp S](https://typography.guru/journal/german-sharp-s-design/)  
 [Cyrillic letter 'б'](http://typejournal.ru/en/articles/Cyrillic-Be-Vision)  
 [Greek Type Design Resources](http://leonidas.org/greek-type-design/)  
-[Greek Guide](http://greekguide.huertatipografica.com/)
+[Greek Guide](http://greekguide.huertatipografica.com/)  
+[Devanagari Guide](http://devanaguide.huertatipografica.com/)  
 
 ---
 
