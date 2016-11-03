@@ -49,6 +49,7 @@ This is where you find links, presentations and whatnot.
 [Just Another Test Text Generator](http://justanotherfoundry.com/generator)  
 [Glyph Gazer](https://typeresources.github.io/glyph-gazer/) - Compare glyphs in different fonts  
 [Latin Plus Langauge Support validation](http://www.underware.nl/latin_plus/validate/)  
+[An Crúbadán](http://crubadan.org/writingsystems)  Database of word lists of languages (including minority)
 
 ---
 
