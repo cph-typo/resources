@@ -20,6 +20,7 @@ This is where you find links, presentations and whatnot.
 [Greek Type Design Resources](http://leonidas.org/greek-type-design/)  
 [Greek Guide](http://greekguide.huertatipografica.com/)  
 [Devanagari Guide](http://devanaguide.huertatipografica.com/)  
+[FileFormat.info](http://www.fileformat.info/info/unicode/char/search.htm) – Check glyphs in alot of different fonts  
 
 ---
 
