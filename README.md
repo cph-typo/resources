@@ -26,6 +26,7 @@ This is where you find links, presentations and whatnot.
 
 ### Spacing
 [Stringmaker](http://tools.ninastoessinger.com/stringmaker/index.php)  
+[Spacing methods in seriffed and sans-serif typeface designs](http://www.fermello.org/FernandoMello_essay.pdf)  
 
 ---
 
