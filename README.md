@@ -107,6 +107,7 @@ This is where you find links, presentations and whatnot.
 ### Glyph Sets
 
 [Google Fonts Glyph Set Baseline 2016](https://github.com/google/fonts/tree/master/tools/encodings/GF%202016%20Glyph%20Sets)  
+[Charset Builder](http://www.alphabet-type.com/tools/charset-builder/)
 
 ---
 
