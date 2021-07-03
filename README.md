@@ -55,6 +55,7 @@ This is where you find links, presentations and whatnot.
 [Latin Plus Langauge Support validation](http://www.underware.nl/latin_plus/validate/)  
 [An Crúbadán](http://crubadan.org/writingsystems)  Database of word lists of languages (including minority)  
 [Waterfall by Mass-Driver](https://workshop.mass-driver.com/waterfall) Drop a font and get a list of words wit hthe same width.  
+[Vertical Metrics](https://vertical-metrics.netlify.app/) - See how the three different vertical metrics behave([Repo](https://github.com/a7sc11u/vertical-metrics))  
 
 ---
 
